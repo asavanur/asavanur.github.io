@@ -27,6 +27,8 @@ url: "https://adityasavanur.github.io" # the base hostname & protocol for your s
 twitter_username: 
 github_username:  
 
+google_analytics: UA-163341416-1
+
 # Build settings
 theme: minima
 plugins:
