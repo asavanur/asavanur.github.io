@@ -161,6 +161,19 @@ Margin notes{% marginnote 'mn-id-whatever' 'This is a margin note *without* a su
 
 ```{{ "{% marginnote 'mn-id-whatever' 'This is a margin note *without* a superscript'" }} %}```
 
+## Footnotes 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
 ## Equations
 
 The Markdown parser being used by this Jekyll theme is Kramdown, which contains some built-in [Mathjax](//www.mathjax.org) support. Both inline and block-level mathematical figures can be added to the content.
