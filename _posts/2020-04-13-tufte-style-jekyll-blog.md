@@ -176,9 +176,9 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
 <details><summary>Reveal Proof</summary>
     
-    $$\text{To compute the variance of X, where} X \sim \text{Geom}(p), \text{we'll start by finding the second moment.} $$ 
+    $$\text{To compute the variance of X, where } X \sim \text{Geom}(p), \text{we'll start by finding the second moment.} $$ 
     
-    $$E[X^2] = E[X^2 \mid A]P[A] + E[X^2 \mid A^c]P[A^c]$$
+    $$E[X^2] = E[X^2|A]P[A] + E[X^2|A^c]P[A^c]$$
     
 </details>
 
