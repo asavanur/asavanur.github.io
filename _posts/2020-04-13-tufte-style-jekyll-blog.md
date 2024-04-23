@@ -177,18 +177,18 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 <details>
   <summary markdown="span">Click me</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+### Heading
+1. Foo
+2. Bar
+    * Baz
+    * Qux
 
-  ### Some Javascript
-  ```js
+### Some Javascript
+```js
   function logSomething(something) {
     console.log('Something', something);
   }
-  ```
+```
 </details>
 <br/>
 
