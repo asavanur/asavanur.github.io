@@ -173,6 +173,23 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
+    
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ## Equations
 
@@ -197,7 +214,7 @@ is written by enclosing the expression within a pair of ```$$``` with an empty l
 
 You can get pretty fancy, for instance, the wave equation's nabla is no big thing:
 
-$$ \frac{\partial^2 y}{\partial t^2}= c^2\nabla^2u $$
+$$ \frac{\partial^2 y}{\partial t^2}= c^2\nabla^2y $$
 
 
 All of the standard <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> equation markup is available to use inside these block tags.
