@@ -175,6 +175,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 
 <details>
+    
   <summary>Click me</summary>
 
 ### Heading
@@ -189,6 +190,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     console.log('Something', something);
   }
 ```
+
 </details>
 
 ## Equations
