@@ -175,8 +175,13 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 
 <details><summary>Reveal Proof</summary>
- To compute the variance of $X$, where $X \sim \text{Geom}(p)$, we'll start by finding the second moment. 
- $$E[X^2] = E[X^2 \mid A]P[A] + E[X^2 \mid A^c]P[A^c]$$
+    
+    To compute the variance of $X$, where $X \sim \text{Geom}(p)$, we'll start by finding the second moment. 
+    $$E[X^2] = E[X^2 \mid A]P[A] + E[X^2 \mid A^c]P[A^c]$$
+    
+    ```python
+    print('Hello World!')
+    ```
 </details>
 
 ## Equations
