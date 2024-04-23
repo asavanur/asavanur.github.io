@@ -175,8 +175,8 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 
 <details>
-  <summary markdown="span">Click me</summary>
-  
+  <summary>Click me</summary>
+
 ### Heading
 1. Foo
 2. Bar
@@ -190,7 +190,6 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
   }
 ```
 </details>
-<br/>
 
 ## Equations
 
