@@ -186,6 +186,14 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     
 </details>
 
+<details><summary>Reveal Code</summary>
+    
+    ``` ruby
+    module Jekyll
+    ```
+    
+</details>
+
 ## Equations
 
 The Markdown parser being used by this Jekyll theme is Kramdown, which contains some built-in [Mathjax](//www.mathjax.org) support. Both inline and block-level mathematical figures can be added to the content.
