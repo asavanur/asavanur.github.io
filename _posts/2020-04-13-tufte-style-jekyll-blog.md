@@ -174,27 +174,9 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
 
-<details>
-    
-  <summary>Click me</summary>
-  
-  {::options parse_block_html="true" /}
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-    function logSomething(something) {
-    console.log('Something', something);
-      }
-  ```
-
-{::options parse_block_html="false" /}
-
+<details><summary>Reveal Proof</summary>
+ To compute the variance of $X$, where $X \sim \text{Geom}(p)$, we'll start by finding the second moment. 
+ $$E[X^2] = E[X^2 \mid A]P[A] + E[X^2 \mid A^c]P[A^c]$$
 </details>
 
 ## Equations
