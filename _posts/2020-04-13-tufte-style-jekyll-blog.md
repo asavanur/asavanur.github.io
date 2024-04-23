@@ -174,10 +174,8 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
 
-{::options parse_block_html="true" /}
-
 <details>
-  <summary>Click me</summary>
+  <summary markdown="span">Click me</summary>
   
   ### Heading
   1. Foo
@@ -192,8 +190,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
   }
   ```
 </details>
-
-{::options parse_block_html="false" /}
+<br/>
 
 ## Equations
 
