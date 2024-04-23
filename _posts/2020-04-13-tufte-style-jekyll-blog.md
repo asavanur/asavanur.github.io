@@ -172,6 +172,13 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
     `{ my code }`
 
+    ``` ruby
+    module Jekyll
+    ```
+    To compute the variance of $$ X $$, where $$ X \sim \text{Geom}(p), $$ we'll start by finding the second moment. 
+    
+    $$E[X^2] = E[X^2|A]P[A] + E[X^2|A^c]P[A^c]$$
+
     Add as many paragraphs as you like.
 
 <details><summary>Reveal Proof</summary>
@@ -179,10 +186,6 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     $$\text{To compute the variance of X, where } X \sim \text{Geom}(p), \text{we'll start by finding the second moment.} $$ 
     
     $$E[X^2] = E[X^2|A]P[A] + E[X^2|A^c]P[A^c]$$
-
-    ``` ruby
-    module Jekyll
-    ```
     
 </details>
 
