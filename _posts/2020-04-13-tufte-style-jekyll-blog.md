@@ -178,6 +178,8 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     
   <summary>Click me</summary>
   
+  {::options parse_block_html="true" /}
+  
   ### Heading
   1. Foo
   2. Bar
@@ -190,6 +192,8 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     console.log('Something', something);
       }
   ```
+
+{::options parse_block_html="false" /}
 
 </details>
 
