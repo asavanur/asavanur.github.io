@@ -186,19 +186,19 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     
 </details>
 
-<details><summary>Reveal Code</summary>
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Reveal code</summary>
     
-    {::options parse_block_html="true" /}
-    
-    ``` ruby
-    
-    module Jekyll
-    
+    ```python
+    print('Hello World!')
     ```
-    
-    {::options parse_block_html="false" /}
+    Of course, it has to be Hello World, right?
     
 </details>
+<br/>
+
+{::options parse_block_html="false" /}
 
 ## Equations
 
