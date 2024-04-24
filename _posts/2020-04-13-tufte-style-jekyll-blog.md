@@ -190,7 +190,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
 <details><summary markdown="span">Reveal code</summary>
     
-    ```python
+    ``` python
     print('Hello World!')
     ```
     Of course, it has to be Hello World, right?
