@@ -188,11 +188,15 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
 <details><summary>Reveal Code</summary>
     
+    {::options parse_block_html="true" /}
+    
     ``` ruby
     
     module Jekyll
     
     ```
+    
+    {::options parse_block_html="false" /}
     
 </details>
 
