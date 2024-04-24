@@ -188,7 +188,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
 {::options parse_block_html="true" /}
 
-<details><summary>Reveal code</summary>
+<details><summary markdown="span">Reveal code</summary>
     
     ``` python
     print('Hello World!')
@@ -196,6 +196,7 @@ Here's a simple footnote,[^3] and here's a longer one.[^bignote]
     Of course, it has to be Hello World, right?
     
 </details>
+
 <br/>
 
 {::options parse_block_html="false" /}
