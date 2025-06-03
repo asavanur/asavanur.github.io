@@ -3,5 +3,4 @@ layout: full-width
 title: About
 ---
 
-Under construction.
-
+A blog about the simplicity, usefulness, and beauty underlying science and math.
