@@ -1,7 +1,6 @@
 ---
 title: "Intro post: Why care about intuition?"
 layout: post
-date: 2025-06-03
 ---
 
 I consider that I understand an equation when I can predict the properties of its solutions without solving it.
