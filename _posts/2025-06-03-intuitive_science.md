@@ -4,7 +4,7 @@ layout: post
 ---
 
 I consider that I understand an equation when I can predict the properties of its solutions without solving it.
--Paul Dirac{%sidenote 'One' 'Quoted in F. Wilczek, B. Devine, *Longing for the Harmonies*, p.102.'%} 
+-Paul Dirac{%sidenote 'One' 'F. Wilczek, B. Devine, *Longing for the Harmonies*, p. 102.'%} 
 
 ...Equations without a phenomenological background remain a formal game. Only simple qualitative arguments can unveil the underlying physics.
 -Phillippe Nozieres{%sidenote 'two' '[Sixty Years of Condensed Matter Physics: An Everlasting Adventure.](http://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-020911-125119)'%}
