@@ -34,5 +34,9 @@ $$ \text{Area of rectangle} + \text{Area of triangle} = 2 \times 1 + \frac{2 \ti
 
 The Babylonians likely discovered empirically, with diagrams drawn in the sand or with small fields, that adding the two previous areas 
 results in the same value as simply averaging the parallel horizontal sides and then multiplying that value by the vertical side, i.e. 
-that $$ \frac{1+2}{2} \times 2=3. $$ The same procedure applies to the case where two sides are slanted, you simply have to add the area of 
+that 
+
+$$ \frac{1+2}{2} \times 2=3. $$
+
+The same procedure applies to the case where two sides are slanted, you simply have to add the area of 
 two triangles to the rectangle. That is how they found the area of a trapezoid.
