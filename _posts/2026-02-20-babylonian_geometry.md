@@ -23,11 +23,11 @@ have been found, and one reason 60 was useful is that because 60 is divisible by
 order to quickly find the results of any multiplication, you can use the relationships between the factors. (robson)
 The Babylonians went further, however. Before 3000 BC, they had figured out the area of a trapezoid. 
 Take a trapezoid with one slanted side, like so:
-{% maincolumn "assets/img/trapezoid.png" %}
+
 You can divide it into a rectangle and a triangle:
-{% maincolumn "assets/img/trapezoid2.png" %}
+
 A triangle, by the way, can always be thought of as half a rectangle:
-{% maincolumn "assets/img/rectangle.png" %}
+
 With these two facts in mind, we can simply find the areas and add them:
 
 The Babylonians likely discovered empirically, with diagrams drawn in the sand or with small fields, that adding the two previous areas 
