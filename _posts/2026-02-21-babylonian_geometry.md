@@ -4,7 +4,7 @@ layout: post
 ---
 
 We will start our journey at the very beginning of science and math: ancient Babylon. 
-People have been doing math for tens of thousands of years (e.g. the "Ishango" bone, from 20,000 years ago in Southern Africa, with uneven groups of tally marks on it{%sidenote 'One' 'Plester, V., and D. Huylebrouck. 1999. The Ishango artefact: The missing base 12 link. Forma 14 (4): 339-46.'}). But, to our knowledge, it really started to take off in ancient Egypt and Babylon around 3000 BC, and their math influenced modern math heavily. 
+People have been doing math for tens of thousands of years (e.g. the "Ishango" bone, from 20,000 years ago in Southern Africa, with uneven groups of tally marks on it{%sidenote 'One' 'Plester, V., and D. Huylebrouck. 1999. The Ishango artefact: The missing base 12 link. Forma 14 (4): 339-46.'%}). But, to our knowledge, it really started to take off in ancient Egypt and Babylon around 3000 BC, and their math influenced modern math heavily. 
 
 Numerals were invented and used to make the administration of the kingdom easier. As a kingdom grows, there is  a greater need to tally bigger and bigger numbers of tax receipts and other such things, so this naturally results in a need to invent a simpler way of keeping track of amounts{%sidenote 'Two' 'E. Robson. *Mathematics in Iraq: A Social History,* p. 34-40.'%}. In addition, you can't tax a farmer correctly if you don't know how big his field is. This resulted  in both the invention of written numerals and area formulas. 
 
