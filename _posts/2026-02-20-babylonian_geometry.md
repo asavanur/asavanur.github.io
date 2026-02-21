@@ -16,15 +16,15 @@ The Babylonians went further, however. Before 3000 BC, they had figured out the 
 
 Take a trapezoid with one slanted side, like so:
 
-{% maincolumn "assets/img/trapezoid.png" "A trapezoid" %}
+{% maincolumn "assets/img/trapezoid.png" " " %}
 
 You can divide it into a rectangle and a triangle:
 
-{% maincolumn "assets/img/trapezoid2.png" "A divided trapezoid" %}
+{% maincolumn "assets/img/trapezoid2.png" " " %}
 
 A triangle, by the way, can always be thought of as half a rectangle:
 
-{% maincolumn "assets/img/rectangle.png" "A triangle rotated and placed on top of itself to make a rectangle" %}
+{% maincolumn "assets/img/rectangle.png" " " %}
 
 With these two facts in mind, we can simply find the areas and add them:
 
