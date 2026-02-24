@@ -12,7 +12,7 @@ The Babylonians used a numeral system like ours but with a base of 60 instead of
 
 From there, you can actually figure out the rules for multiplication. If you have 5 rows of 5 squares each, you can count each one individually, or you can count up by steps of 5 and write the results in a table to use for reference, and repeat the process for different sizes of fields. Many of these base 60 multiplication tables have been found, and one reason 60 was useful is that because 60 is divisible by a lot of numbers, you do not have to make a 60x60 table in order to quickly find the results of any multiplication, you can use the relationships between the factors{%sidenote 'Four' 'Robson, p. 87.'%}.
 
-The Babylonians went further, however. Before 3000 BC, they had figured out the area of a trapezoid{%sidenote 'Five' 'Robson, p. 30.'%}.
+The Babylonians went further, however. Before 3000 BC, they had figured out the area of a trapezoid{%sidenote 'Five' 'Robson, p. 30.'%}, maybe when they needed to find the area of a field cut off by a river.
 
 Take a trapezoid with one slanted side, like so:
 
