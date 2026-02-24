@@ -17,13 +17,17 @@ Euclid, The Thirteen Books of the Elements (trans. with introduction and comment
 
 1. The area of a right triangle increases in proportion to the square of its longest side. For example, multiply the longest side by 3, and the area increases by a factor of 9. 
 You can try this (increasing the longer side) for any rectangular array, and it will work. Make sure to keep the proportions the same. A right triangle is simply half of a rectangle, as we know, so the same thing should work for it.  
-This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way. 
-(diagram: 2x3 and 6x9 arrays of dots)
-2. Any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:  
-(diagram)
+This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way.
+
+{% maincolumn "assets/img/blog3/scaling.png" " " %}
+
+3. Any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
+
+{% maincolumn "assets/img/blog3/area sum.png" " " %}
+
 This was probably discovered empirically too.
 This doesn't work for non-right triangles.
-3. So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up. Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, by step 1. We can call the constant "k." Now we can state
+5. So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up. Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, by step 1. We can call the constant "k." Now we can state
 
 $$\text{Area of A} + \text{Area of B} = \text{Area of C}$$ 
 
