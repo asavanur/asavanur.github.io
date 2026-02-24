@@ -13,18 +13,20 @@ Therefore, here is a very simple demonstration/proof of the Pythagorean theorem 
 Note: it is not known whether the Babylonians came up with the following proof/demonstration. But it is one of the simplest, similar proofs are known to date back to the Greeks{%sidenote 'Four' 'The Pythagorean Theorem is Proposition 47 of Book 1 of the Elements, the most famous work of Greek math. The proof there is not the one I am referencing. See instead Propositions 19 and 31, Book 6. The edition is 
 Euclid, The Thirteen Books of the Elements (trans. with introduction and commentary by T. L. Heath), Dover, 1956, cited in Givental, ["The Pythagorean Theorem: What is it About?"](https://math.berkeley.edu/~giventh/papers/eu.pdf)' %}, and the Babylonians knew of all the concepts used{%sidenote 'Five' 'There is a common thread running through the scholarly literature on this topic, including some of the sources I used, that the Babylonians did not really "prove" anything, even though they knew the mathematical facts, and the Greeks were the first to give proofs. Math is essentially about empirical discovery and reducing problems to simpler ones, which is universal. Different groups of people prove things slightly differently, (see e.g. Chemla, The History of Mathematical Proof in Ancient Traditions, 2012) so this thread is just meaningless pedantry, in my opinion.' %}.
 
-1. The area of a right triangle increases in proportion to the square of its longest side. For example, multiply the longest side by 3, and the area increases by a factor of 9.
+Without further ado: 
+The area of a right triangle increases in proportion to the square of its longest side. For example, multiply the longest side by 3, and the area increases by a factor of 9.
 
 {% maincolumn "assets/img/blog3/scaling.png" " " %}
 
 You can try this (increasing the longer side) for any rectangular array, and it will work. Make sure to keep the proportions the same. A right triangle is simply half of a rectangle, as we know, so the same thing should work for it.  
 This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way.
-2. Any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
+
+Next, any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
 
 {% maincolumn "assets/img/blog3/area sum.png" " " %}
 
 This was probably discovered empirically too. It doesn't work for non-right triangles.
-3. So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up. Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, by step 1. We can call the proportionality constant "k." Now we can state
+So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up. Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, from earlier. We can call the proportionality constant "k." Now we can state
 
 $$\text{Area of A} + \text{Area of B} = \text{Area of C}$$ 
 
