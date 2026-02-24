@@ -3,11 +3,9 @@ title: "Intro post: Why care about intuition?"
 layout: post
 ---
 
-I consider that I understand an equation when I can predict the properties of its solutions without solving it.
--Paul Dirac{%sidenote 'One' 'F. Wilczek, B. Devine, *Longing for the Harmonies*, p. 102.'%} 
+{% epigraph 'I consider that I understand an equation when I can predict the properties of its solutions without solving it.' 'Paul Dirac' 'F. Wilczek, B. Devine, *Longing for the Harmonies*, p. 102.' %}
 
-...Equations without a phenomenological background remain a formal game. Only simple qualitative arguments can unveil the underlying physics.
--Phillippe Nozieres{%sidenote 'two' '[Sixty Years of Condensed Matter Physics: An Everlasting Adventure.](http://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-020911-125119)'%}
+{% epigraph 'Equations without a phenomenological background remain a formal game. Only simple qualitative arguments can unveil the underlying physics.' 'Phillippe Nozieres' '[Sixty Years of Condensed Matter Physics: An Everlasting Adventure.](http://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-020911-125119)' %}
 
 My purpose on this blog is to explain the results of science and sometimes math in a way that most people can understand, and do so using experimental data and the chronological development of the subject. <!--more--> I believe this is the best way to teach the subject to people. I have some predecessors in this vein, but none of them have really done this in a satisfactory way. Some of them have intuitive explanations (e.g. Sanjoy Mahajan’s book [*The Art of Insight in Science and Engineering*](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/pages/online-textbook/), which this blog is closest to in approach). Some of them explain the original problem a theory was invented to solve. Some of them say that the previous theory failed to explain the experimental data. But none of them (neither popular science nor technical books) do all of this and also show the actual data with the predictions (failed or not). 
 
