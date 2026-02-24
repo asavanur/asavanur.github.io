@@ -35,4 +35,4 @@ $$ k \times c^2=k \times b^2+k \times a^2. $$
 
 Since the sides have the same ratio, the proportionality constant is the same, so it cancels out. Therefore, 
 
-$$c^2=a^2+b^2.$$
+$$c^2=b^2+a^2.$$
