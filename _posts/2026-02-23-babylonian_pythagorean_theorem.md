@@ -27,12 +27,12 @@ Next, any right triangle can be divided into two similar right triangles by draw
 This was probably discovered empirically too. It doesn't work for non-right triangles.
 So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up: 
 
-$$\text{Area of A} + \text{Area of B} = \text{Area of C}$$ 
+$$\text{Area of C} = \text{Area of B} + \text{Area of A}$$ 
 
 Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, from earlier. We can call the proportionality constant "k." Now we can state that
 
-$$ k \times a^2+k \times b^2=k \times c^2. $$
+$$ k \times c^2=k \times b^2+k \times a^2. $$
 
 Since the sides have the same ratio, the proportionality constant is the same, so it cancels out. Therefore, 
 
-$$a^2+b^2=c^2.$$
+$$c^2=a^2+b^2.$$
