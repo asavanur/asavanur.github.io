@@ -25,5 +25,3 @@ transfer:
   settings: -av
   source: _site/
   destination: 
-plugins:
-  - jekyll-feed
