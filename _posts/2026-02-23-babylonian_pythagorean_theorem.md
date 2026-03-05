@@ -18,7 +18,7 @@ The area of a right triangle increases in proportion to the square of its longes
 
 {% maincolumn "assets/img/blog3/scaling.png" " " %}
 
-Then you can try it for any other size of rectangular array, and it will work. A right triangle is simply half of a rectangle, as we know, so the same thing should work for it. This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way. Stated in precise terms, the area of a rectangle or right triangle is equal to a constant (proportion) times the square of the longest side.
+Then you can try it for any other size of rectangular array, and it will work. A right triangle is simply half of a rectangle, as we know, so the same thing should work for it. This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way. Stated in precise terms, the area of a rectangle or right triangle is equal to a constant (proportion) times the square of the longest side. For this example, the constant is 2/3, but as the rectangle gets skinnier or fatter, the proportion changes.
 
 Next, any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
 
