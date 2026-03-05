@@ -7,7 +7,7 @@ We'll now take a detour into Ancient Egypt, at around the same time. The Ancient
 
 To create their massive pyramids and other structures, the Egyptians needed to gather a large amount of workers. This naturally led to the problems of how to distribute food and payment. Smaller-scale problems of distribution arose in temples and other such organizations.
 
-People were also paid in beer and bread. They didn't get drunk all the time, their beer varied from quite strong to quite weak, but the beer used as a form of payment was nutritious enough to be a staple {%sidenote 'One' 'M. Bunson. The encyclopedia of Ancient Egypt (GramercyBooks, 1991), p.5' %}.
+People were also paid in beer and bread. They didn't get drunk all the time, their beer varied from quite strong to quite weak, but the beer used as a form of payment was nutritious enough to be a staple{%sidenote 'One' 'M. Bunson. The encyclopedia of Ancient Egypt (GramercyBooks, 1991), p.5' %}.
 
 Not everyone was paid equally. The priests in the temple were paid more than the security guards, for example, and the factor by which they were paid more was fixed. The question of how to distribute a given quantity of food thus became more than a division problem. It became a linear equation, one of the first instances of what we now call 'algebra'. 
 
