@@ -3,7 +3,7 @@ title: "Paying People in Beer"
 layout: post
 ---
 
-We'll now take a detour into Ancient Egypt, at around the same time. The Ancient Egyptians also had a high level of science and math, though more is known about the Babylonians. <!-- more--> Documents are more scarce given that they were written on papyrus, which is of course much more fragile than a clay tablet.
+We'll now take a detour into Ancient Egypt, at around the same time. The Ancient Egyptians also had a high level of science and math, though more is known about the Babylonians. <!--more--> Documents are more scarce given that they were written on papyrus, which is of course much more fragile than a clay tablet.
 
 To create their massive pyramids and other structures, the Egyptians needed to gather a large amount of workers. This naturally led to the problems of how to distribute food and payment. Smaller-scale problems of distribution arose in temples and other such organizations.
 
