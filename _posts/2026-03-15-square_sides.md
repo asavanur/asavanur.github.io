@@ -15,7 +15,7 @@ Let us now cut and paste the shapes and try to turn this into a square whose sid
 
 {% maincolumn "assets/img/blog4/sqrt2.png" " " %}
 
-Now, this is not exactly a square anymore, but it is very close to one, and we expect the area of the tiny missing square to be very small compared to the total area. We get an answer of 2.25. The missing area is $$(1/4)^2,$$ as you can see from the diagram, so the total area is $$5 + (1/4)^2,$$ or 5.0625, meaning this is a quite accurate approximation. 
+Now, this is not exactly a square anymore, but it is very close to one, and we expect the area of the tiny missing square to be very small compared to the total area. We get an answer of 2.25. The missing area is $$(1/4)^2,$$ as you can see from the diagram, so the total area of a square of side 2.25 is $$5 + (1/4)^2,$$ or 5.0625, meaning this is a quite accurate approximation. 
 Now, in this example, the guess, 2, was smaller than the real square root, because squaring it gives 4, not 5. We can also make a guess that is bigger than the real square root, and then do a similar procedure, but subtracting rectangles instead of adding them.  
 Doing this procedure for several numbers, you can also convince yourself that it is equivalent to the following procedure:
 
