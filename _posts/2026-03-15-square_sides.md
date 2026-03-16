@@ -18,11 +18,15 @@ Let us now cut and paste the shapes and try to turn this into a square whose sid
 Now, this is not exactly a square anymore, but it is very close to one, and we expect the area of the tiny missing square to be very small compared to the total area. We get an answer of 2.25. The missing area is $$(1/4)^2,$$ as you can see from the diagram, so the total area is $$5 + (1/4)^2,$$ or 5.0625, meaning this is a quite accurate approximation. 
 Now, in this example, the guess, 2, was smaller than the real square root, because squaring it gives 4, not 5. We can also make a guess that is bigger than the real square root, and then do a similar procedure, but subtracting rectangles instead of adding them.  
 Doing this procedure for several numbers, you can also convince yourself that it is equivalent to the following procedure:
-Make a guess for the square root (call it a).
 
-Divide the number you want to take the square root of (call it c) by a.
+$$
+begin{enumerate}
+    \item \text{Make a guess for the square root (call it a).}
+    \item \text{Divide the number you want to take the square root of (call it c) by a.}
+    \item \text{Average these two numbers together (add them up and divide by 2). That is, calculate} \frac{a+c/a}{2}.
+\end{enumerate}
+$$
 
-Average these two numbers together (add them up and divide by 2). That is, calculate $$\frac{a+c/a}{2}$$.
 (This also gives 2.25 for the example above.)
 We can imagine doing this procedure over and over again repeatedly, taking the result of the previous step as the input. The answer gets better and better at each step. (There is no written procedure that explicitly tells you to do this repeatedly, but there are several examples of tablets that they take square roots on, and the pattern of numbers on these tablets can be explained by doing this procedure repeatedly, and there are no plausible alternative explanations, so it is highly likely that they did in fact do it repeatedly.)
 Now, when you want to find the longest side of the triangle you need, you can simply use this procedure as well as the Pythagorean theorem to do so.
