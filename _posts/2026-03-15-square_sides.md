@@ -20,11 +20,9 @@ Now, in this example, the guess, 2, was smaller than the real square root, becau
 Doing this procedure for several numbers, you can also convince yourself that it is equivalent to the following procedure:
 
 $$
-begin{enumerate}
-    \item \text{Make a guess for the square root (call it a).}
-    \item \text{Divide the number you want to take the square root of (call it c) by a.}
-    \item \text{Average these two numbers together (add them up and divide by 2). That is, calculate} \frac{a+c/a}{2}.
-\end{enumerate}
+\text{1. Make a guess for the square root (call it a).}
+\text{2. Divide the number you want to take the square root of (call it c) by a.}
+\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate} \frac{a+c/a}{2}.
 $$
 
 (This also gives 2.25 for the example above.)
