@@ -19,11 +19,11 @@ Now, this is not exactly a square anymore, but it is very close to one, and we e
 Now, in this example, the guess, 2, was smaller than the real square root, because squaring it gives 4, not 5. We can also make a guess that is bigger than the real square root, and then do a similar procedure, but subtracting rectangles instead of adding them.  
 Doing this procedure for several numbers, you can also convince yourself that it is equivalent to the following procedure:
 
-$$
-\text{1. Make a guess for the square root (call it a).} \\
-\text{2. Divide the number you want to take the square root of (call it c) by a.} \\
-\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate } \frac{a+c/a}{2}.\\
-$$
+$$\text{1. Make a guess for the square root (call it a).}$$
+
+$${2. Divide the number you want to take the square root of (call it c) by a.}$$
+
+$$\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate } \frac{a+c/a}{2}.$$
 
 (This also gives 2.25 for the example above.)
 We can imagine doing this procedure over and over again repeatedly, taking the result of the previous step as the input. The answer gets better and better at each step. (There is no written procedure that explicitly tells you to do this repeatedly, but there are several examples of tablets that they take square roots on, and the pattern of numbers on these tablets can be explained by doing this procedure repeatedly, and there are no plausible alternative explanations, so it is highly likely that they did in fact do it repeatedly.)
