@@ -22,7 +22,7 @@ Doing this procedure for several numbers, you can also convince yourself that it
 $$
 \text{1. Make a guess for the square root (call it a).} \\
 \text{2. Divide the number you want to take the square root of (call it c) by a.} \\
-\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate} \frac{a+c/a}{2}.\\
+\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate } \frac{a+c/a}{2}.\\
 $$
 
 (This also gives 2.25 for the example above.)
