@@ -7,7 +7,7 @@ We will now return to Babylon, and to geometry. Suppose you are a Babylonian sur
 The Babylonians invented a very accurate procedure to do this{%sidenote 'One' 'A. Flores. [The Babylonian Method for Approximating Square Roots: Why is it so Efficient? The Mathematics Teacher, Vol. 108, No.3 (2014).](https://www.jstor.org/stable/10.5951/mathteacher.108.3.0230)' %}.
 They called the square root a "square-side", suggesting they first found it in the context of finding the side of a square whose area was known (this is very close to our application above, remembering that the Pythagorean theorem is intimately related to the area of squares and rectangles).
 We will take a simple example, finding the side of a square of area 5 square cubits, and then we will also have the solution to the more complicated triangle problem. 
-The first step, just like the first step of the false position method, is to make a guess. We will make the initial guess of 2. Now we can imagine dividing the total area into a square with area 4 and a rectangle of area 1 as follows, with the rectangle's long side being the same as the square's side:
+The first step, just like the first step of the [false position method](https://asavanur.github.io/articles/26/paying_people_in_beer), is to make a guess. We will make the initial guess of 2. Now we can imagine dividing the total area into a square with area 4 and a rectangle of area 1 as follows, with the rectangle's long side being the same as the square's side:
 
 {% maincolumn "assets/img/blog4/sqrt1.png" " " %}
 
