@@ -25,6 +25,8 @@ All the sides of a similar triangle are in the same proportion as the sides of t
 All the sides have been marked in the diagram. 
 
 We can now read off the lengths that make up the longest side (length 1) and thus read off the Pythagorean theorem: 
+
 $$a^2+b^2=1.$$
+
 In words:  
 The sum of the squares of the two smaller sides of a triangle is equal to the square of the largest side. 
