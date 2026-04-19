@@ -14,25 +14,17 @@ Note: it is not known whether the Babylonians came up with the following proof/d
 Euclid, The Thirteen Books of the Elements (trans. with introduction and commentary by T. L. Heath) (Dover, 1956), cited in Givental, ["The Pythagorean Theorem: What is it About?"](https://math.berkeley.edu/~giventh/papers/eu.pdf)' %}, and the Babylonians knew of all the concepts used{%sidenote 'Five' 'There is a common thread running through the scholarly literature on this topic, including some of the sources I used, that the Babylonians did not really "prove" anything, even though they knew the mathematical facts, and the Greeks were the first to give proofs (so they call it the "Pythagorean Rule" or something). Math is essentially about empirical discovery and reducing problems to simpler ones, which is universal. Different groups of people prove things slightly differently, and the Babylonians knew how to prove their procedures were correct (see e.g. K. Chemla, *The History of Mathematical Proof in Ancient Traditions* (Cambridge University Press, 2012)) so this thread is just meaningless pedantry, in my opinion.' %}. In addition, as shown by the articles cited in notes 2 and 3 above, they had a much more sophisticated understanding of trigonometry than is generally assumed, so it is highly likely that they knew of the following proof.
 
 Without further ado: 
-The area of a right triangle increases in proportion to the square of its longest side. For example, multiply the longest side by 3, and the area increases by a factor of 9. Make sure to keep the proportions of the shape the same. Try this (increasing the longer side) on simpler cases, like a $$2 \times 3$$ rectangle, where it is obvious. 
-
-{% maincolumn "assets/img/blog3/scaling.png" " " %}
-
-Then you can try it for any other size of rectangular array, and it will work. A right triangle is simply half of a rectangle, as we know, so the same thing should work for it. This rule actually holds for all sides. Take the same initial rectangle and, keeping the proportions the same, increase the small side by a factor of 3. The area still increases by a factor of 9, because this is the same process, stated in a different way. Stated in precise terms, the area of a rectangle or right triangle is equal to a constant (proportion) times the square of the longest side. For this example, the constant is 2/3, but as the rectangle gets skinnier or fatter, the proportion changes.
+Scale down all the sides of the triangle. The relevant aspect is the relationship between the sides. As long as we keep the proportions the same, this relationship will not change. So scale down the longest side so it is 1, and scale the other sides appropriately. 
 
 Next, any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
 
 {% maincolumn "assets/img/blog3/area sum.png" " " %}
 
 This was probably discovered empirically too. It doesn't work for non-right triangles.
-So the area of a right triangle can be obtained by adding up the areas of the smaller right triangles that make it up: 
+All the sides of a similar triangle are in the same proportion as the sides of the original triangle. The lengths have simply been scaled down. So since the medium-length side is a factor of $$b$$ smaller than the longest side, and the smallest side is a factor of $$a$$ smaller, that is also true for the two triangles that the original triangle has been split into. So the smallest side of the smallest triangle has a length of $$a^2,$$ for example.
+All the sides have been marked in the diagram. 
 
-$$\text{Area of C} = \text{Area of B} + \text{Area of A}$$ 
-
-Each of those areas is proportional to the square of the longest side of the triangle it corresponds to, from earlier. We can call the proportionality constant "k." Now we can state that
-
-$$ k \times c^2=k \times b^2+k \times a^2. $$
-
-Since the sides have the same ratio, the proportionality constant is the same, so it cancels out. Therefore, 
-
-$$c^2=b^2+a^2.$$
+We can now read off the lengths that make up the longest side (length 1) and thus read off the Pythagorean theorem: 
+$$a^2+b^2=1.$$
+In words:  
+The sum of the squares of the two smaller sides of a triangle is equal to the square of the largest side. 
