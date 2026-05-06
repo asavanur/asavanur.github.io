@@ -9,6 +9,7 @@ They called the square root a "square-side", suggesting they first found it in t
 We will take a simple example, finding the side of a square of area 5 square cubits, and then we will also have the solution to the more complicated triangle problem. 
 The first step, just like the first step of the [false position method](https://asavanur.github.io/articles/26/paying_people_in_beer), is to make a guess. We will make the initial guess of 2. Now we can imagine dividing the total area into a square with area 4 and a rectangle of area 1 as follows, with the rectangle's long side being the same as the square's side:
 
+
 {% maincolumn "assets/img/blog4/drawing2.png" " " %}
 
 Let us now cut and paste the shapes and try to turn this into a square whose side we know. Let's divide the rectangle in half top-to-bottom, then we can paste it onto the square: 
