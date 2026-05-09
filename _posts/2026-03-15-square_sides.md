@@ -24,7 +24,7 @@ $$\text{1. Make a guess for the square root (call it a).}$$
 
 $$\text{2. Divide the number you want to take the square root of (call it c) by a.}$$
 
-$$\text{3. Average these two numbers together (add them up and divide by 2). That is, calculate } \frac{a+c/a}{2}.$$
+$$\text{3. Average these two numbers together (add them up and divide by 2).}.$$
 
 (This also gives 2.25 for the example above.)
 We can imagine doing this procedure over and over again repeatedly, taking the result of the previous step as the input. The answer gets better and better at each step. (There is no written procedure that explicitly tells you to do this repeatedly, but there are several examples of tablets that they take square roots on, and the pattern of numbers on these tablets can be explained by doing this procedure repeatedly, and there are no plausible alternative explanations, so it is highly likely that they did in fact do it repeatedly.)
