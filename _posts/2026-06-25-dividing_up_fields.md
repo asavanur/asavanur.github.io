@@ -4,6 +4,7 @@ layout: post
 ---
 
 Given that many of the Babylonians were farmers, and that there were many of them competing for a limited amount of land, they had to figure out ways of giving out land fairly. The problem of dividing a given parcel of land into equal parts was thus very common. <!--more--> For simple cases, like dividing a square into equal parts, it is obvious: divide the square into rectangular parts of equal size. But what about dividing trapezoids into equal parts? Those are slightly more complicated, and very common as field shapes (e.g. suppose your rectangular field has one or two corners cut off by rivers).
+Now you could object: but why can't we just eyeball it? The answer to that is: land was scarce and valuable, so to make sure that everyobody was being given a fair shake, they had to be precise.
 
 Let us consider the simplest example of this: dividing a trapezoid in half. We know the total area of the trapezoid, and we want to find out where we should cut (or place a rope) such that the areas on either side of the cut are equal. We can draw a diagram:
 
