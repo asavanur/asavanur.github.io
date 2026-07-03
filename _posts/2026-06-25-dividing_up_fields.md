@@ -5,13 +5,13 @@ layout: post
 
 Given that many of the Babylonians were farmers, and that there were many of them competing for a limited amount of land, they had to figure out ways of giving out land fairly. The problem of dividing a given parcel of land into equal parts was thus very common. <!--more--> For simple cases, like dividing a square into equal parts, it is obvious: divide the square into rectangular parts of equal size. But what about dividing trapezoids into equal parts? Those are slightly more complicated, and very common as field shapes (e.g. suppose your rectangular field has one or two corners cut off by rivers).
 
-Let us consider the simplest example of this: dividing a trapezoid in half. We know the total area of the trapezoid, and we want to find out where we should cut (or place a rope) such that the areas on either side of the cut are equal. We can draw a diagram:
+Let us consider the simplest example of this: dividing a trapezoid in half. We know the total area of the trapezoid, and we want to find out where we should cut (or place a rope) such that the areas on either side of the cut are equal. Let's say the two bases of the trapezoid are 12 and 8, and the height is 6. We can draw a diagram of the proposed division, omitting the height for now:
 
 {% maincolumn "assets/img/blog5/trapezoid.png" " " %}
 
-Now you could object: but why can't we just eyeball it? Why do we have to do anything more complicated? The answer to that is: in simple cases, like the one we are doing, you can, but in more complicated cases you can't. The method has to work for both simple and more complicated cases. In addition, land was scarce and valuable, so to make sure that everybody was being given a fair shake, they had to be precise.
+Now you could object: but why can't we just eyeball it? The total height is 6, so just measure off a height of 3 cubits and cut it there. Why do we have to do anything more complicated? The answer to that is: in simple cases, like the one we are doing, you can, but in more complicated cases you can't. The method has to work for both simple and more complicated cases. In addition, land was scarce and valuable, so to make sure that everybody was being given a fair shake, they had to be precise.
 
-So, without further ado, we have a trapezoid whose bases are 12 and 8, and whose height (not marked on the diagram) is 6. We can find the total area of the trapezoid as follows: imagine drawing a line from the corner of the lower base to the top of the trapezoid. That is the height, and we know it has a value of 6. The rectangle formed by the height and the lower base has an area of $$6 \times 8=48.$$ 
+So, without further ado, we can find the total area of the trapezoid as follows: imagine drawing a line from the corner of the lower base to the top of the trapezoid. That is the height, and we know it has a value of 6. The rectangle formed by the height and the lower base has an area of $$6 \times 8=48.$$ 
 
 We now add to it the area of the two triangles that are formed, which both have bases of 2. They combine to form a rectangle of base 2 and height of 6, so their total area is 12 and then the total area of the trapezoid is $$48+12=60$$ cubits. We want to divide this trapezoid into two trapezoids, each having 30 cubits of area.
 
