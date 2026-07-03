@@ -17,10 +17,10 @@ We now add to it the area of the two triangles that are formed, which both have 
 
 {% maincolumn "assets/img/blog5/trapezoidarea.png" " " %}
 
-We now need to introduce a new concept: how steep a line is. The Babylonians used this concept extensively (e.g. in making slanted parts of buildings), and they captured it mathematically by calculating the ratio of how far a line extends in the horizontal direction to how far it extends in the vertical direction (the "run" divided by the "rise"){%sidenote 'One' 'This is the opposite of our current definition of slope. A line with a Babylonian steepness of 3 would have a slope of 1/3.' %}.
-
 Now we can divide the top trapezoid into a rectangle and two triangles, as in the following diagram.
-We can label the height of the triangles (which is the thing we want to solve for) "u". Now if the steepness of the slanted sides of the trapezoid is "f", they travel a horizontal distance of f units for every vertical rise of 1 unit. Since the rise in this case is u, the run is $$f \times u $$ (which can also be notated as $$f \cdot u$$). 
+We can label the height of the triangles (which is the thing we want to solve for) "u". Can we find the base of the triangles? Yes, but to do that, we now need to introduce a new concept: how steep a line is. The Babylonians used this concept extensively (e.g. in making slanted parts of buildings), and they captured it mathematically by calculating the ratio of how far a line extends in the horizontal direction to how far it extends in the vertical direction (the "run" divided by the "rise"){%sidenote 'One' 'This is the opposite of our current definition of slope. A line with a Babylonian steepness of 3 would have a slope of 1/3.' %}. 
+
+Now if the steepness of the slanted sides of the trapezoid is "f", they travel a horizontal distance of f units for every vertical rise of 1 unit. Since the rise in this case is u, the run is $$f \times u $$ (which can also be notated as $$f \cdot u$$). Then the bases of both the triangles have lengths of $f \cdot u.$
 
 For our example, the difference between the top and bottom sides (the run) is $$12-8=4,$$ this difference is shared equally between the two sides so the run we need to consider is 2, and the rise is 6, so our value for f will be 2/6 or equivalently 1/3 (0.333). Now everything is set up. 
 
