@@ -25,3 +25,5 @@ Now if the steepness of the slanted sides of the trapezoid is "f", they travel a
 {% maincolumn "assets/img/blog5/trapezoidsetup.png" " " %}
 
 For our example, the difference between the top and bottom sides (the run) is $$12-8=4,$$ this difference is shared equally between the two sides so the run we need to consider is 2, and the rise is 6, so our value for f will be 2/6 or equivalently 1/3 (0.333). Now everything is set up. 
+
+Part 2 of this post [is here.](https://asavanur.github.io/articles/26/dividing_up_fields_2)
