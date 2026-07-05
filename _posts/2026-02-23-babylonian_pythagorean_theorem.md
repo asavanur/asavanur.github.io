@@ -21,7 +21,7 @@ Next, any right triangle can be divided into two similar right triangles by draw
 {% maincolumn "assets/img/blog3/similarity.png" " " %}
 
 This was probably discovered empirically too. It doesn't work for non-right triangles.
-All the sides of a similar triangle are in the same proportion as the sides of the original triangle. The lengths have simply been scaled down. So since the medium-length side is a factor of $$b$$ smaller than the longest side, and the smallest side is a factor of $$a$$ smaller, that is also true for the two triangles that the original triangle has been split into. So the smallest side of the smallest triangle has a length of $$a^2,$$ for example.
+All the sides of a similar triangle are in the same proportion as the sides of the original triangle. The lengths have simply been scaled down. So since the medium-length side is a factor of $$b$$ smaller than the longest side, and the smallest side is a factor of $$a$$ smaller, that is also true for the two triangles that the original triangle has been split into. So the smallest side of the smallest triangle has a length of $$a \times a=a^2,$$ for example.
 All the sides have been marked in the diagram. 
 
 We can now read off the lengths that make up the longest side (length 1) and thus read off the Pythagorean theorem: 
