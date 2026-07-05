@@ -21,6 +21,9 @@ We can now find the side of the square using our [method from before](https://as
 Now, looking at the diagram, we can see that the side length we got plus $$u$$ equals 18. So we can just subtract the value we got from 18 and we have our answer: 2.7. So if we measure out a length of 2.7 cubits, and cut there, we will divide our trapezoid in half.
 This value is close to the value we got from just eyeballing it, so it makes sense. Again, this is just a simple case to illustrate the method. The Babylonians were also able to solve far more complicated field division problems that cannot be eyeballed, but the same principles apply.
 We just solved a quadratic equation. We can first write out the sentence corresponding to the original equation in English and then we can translate that sentence into a mathematical one: 
+
 The area of a rectangle of sides 12 and u is equal to 30 plus the area of a rectangle of sides u and u/3. 
-$$12u=30+u^2/3.$$
+
+Or, $$12u=30+u^2/3.$$
+
 The algebraic steps used to solve this are actually equivalent to the geometric ones we used at each step. But it's much easier to deal with as a geometric figure, don't you think?
