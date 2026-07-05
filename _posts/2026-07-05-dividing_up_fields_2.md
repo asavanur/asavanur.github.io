@@ -24,6 +24,6 @@ We just solved a quadratic equation. We can first write out the sentence corresp
 
 The area of a rectangle of sides 12 and u is equal to 30 plus the area of a rectangle of sides u and u/3. 
 
-Or, $$12u=30+u^2/3.$$
+Equivalently, $$12u=30+u^2/3.$$
 
 The algebraic steps used to solve this are actually equivalent to the geometric ones we used at each step. But it's much easier to deal with as a geometric figure, don't you think?
