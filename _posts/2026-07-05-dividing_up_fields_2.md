@@ -4,7 +4,7 @@ layout: post
 ---
 
 Last time we set up the problem of dividing a trapezoid in half, the simplest example of a "field division problem". Now we can finish solving it.<!--more--> 
-We can focus on the top half of the trapezoid and ignore the bottom half. The strategy is to, by cutting and pasting, turn it into a square whose side we know, similar to the strategy that we used to take the square root{%sidenote 'One' 'This type of problem is in e.g. figure 3.3 of [J. Friberg,  Geometric division problems, quadratic equations, and recursive geometric algorithms in Mesopotamian mathematics, Archive for History of Exact Sciences, Vol. 68, No. 1 (January 2014), pp. 1-34](https://www.jstor.org/stable/24569611). Real-world situations in which this type of problem is solved can be found there as well.'}.
+We can focus on the top half of the trapezoid and ignore the bottom half. The strategy is to, by cutting and pasting, turn it into a square whose side we know, similar to the strategy that we used to take the square root{%sidenote 'One' 'This type of problem is in e.g. figure 3.3 of [J. Friberg,  Geometric division problems, quadratic equations, and recursive geometric algorithms in Mesopotamian mathematics, Archive for History of Exact Sciences, Vol. 68, No. 1 (January 2014), pp. 1-34](https://www.jstor.org/stable/24569611). Real-world situations in which this type of problem is solved can be found there as well.'%}.
 
 First make the trapezoid into a rectangle by adding triangles of the right base and height:
 {% maincolumn "assets/img/blog6/addingtriangles.png" " " %}
