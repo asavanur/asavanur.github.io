@@ -18,7 +18,7 @@ Scale down all the sides of the triangle. The relevant aspect is the relationshi
 
 Next, any right triangle can be divided into two similar right triangles by drawing a perpendicular line from the longest side to the right angled corner:
 
-{% maincolumn "assets/img/blog3/similarity" " " %}
+{% maincolumn "assets/img/blog3/similarity.png" " " %}
 
 This was probably discovered empirically too. It doesn't work for non-right triangles.
 All the sides of a similar triangle are in the same proportion as the sides of the original triangle. The lengths have simply been scaled down. So since the medium-length side is a factor of $$b$$ smaller than the longest side, and the smallest side is a factor of $$a$$ smaller, that is also true for the two triangles that the original triangle has been split into. So the smallest side of the smallest triangle has a length of $$a^2,$$ for example.
