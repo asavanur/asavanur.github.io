@@ -19,7 +19,9 @@ Now we can "complete the square": add a square in the space created, such that t
 {% maincolumn "assets/img/blog6/squaredrectangle.png" " " %}
 We can now find the side of the square using our [method from before](https://asavanur.github.io/articles/26/square_sides). Since $$15^2=225$$ and $$16^2=256,$$ it is between 15 and 16, and since 234 is closer to 225 than it is to 256, it is closer to 15 than 16. I won't repeat the details here. We get 15.3. 
 Now, looking at the diagram, we can see that the side length we got plus $$u$$ equals 18. So we can just subtract the value we got from 18 and we have our answer: 2.7. So if we measure out a length of 2.7 cubits, and cut there, we will divide our trapezoid in half.
+
 This value is close to the value we got from just eyeballing it, so it makes sense. Again, this is just a simple case to illustrate the method. The Babylonians were also able to solve far more complicated field division problems that cannot be eyeballed, but the same principles apply.
+
 We just solved a quadratic equation. We can first write out the sentence corresponding to the original equation in English and then we can translate that sentence into a mathematical one: 
 
 The area of a rectangle of sides 12 and u is equal to 30 plus the area of a rectangle of sides u and u/3. 
